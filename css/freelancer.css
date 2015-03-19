@@ -72,7 +72,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #2c3e50;
-    background-color: #fff;
+    background-color: #ece5ce;
 }
 
 .img-centered {
@@ -191,6 +191,10 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+}
+
+#portfolio {
+  background: #ece5ce !important;
 }
 
 #portfolio .portfolio-item {
@@ -449,5 +453,5 @@ footer .footer-below {
 }
 
 .intro-text .alpaca {
-    
+
 }

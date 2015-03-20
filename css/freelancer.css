@@ -81,8 +81,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    color: #000;
+    background: #fff;
 }
 
 header .container {
@@ -179,8 +179,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #18bc9c;
+    color: #000;
+    background: #fff;
 }
 
 @media(max-width:767px) {
@@ -194,7 +194,7 @@ section.success {
 }
 
 #portfolio {
-  background: #ece5ce !important;
+  background: #fff;
 }
 
 #portfolio .portfolio-item {
@@ -449,9 +449,5 @@ footer .footer-below {
 
 .portfolio-modal .modal-backdrop {
     display: none;
-    opacity: 0;
-}
-
-.intro-text .alpaca {
 
 }
